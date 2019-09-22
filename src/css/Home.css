@@ -1,0 +1,23 @@
+.home-wrapper {
+    display: flex;
+    flex-direction: row;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+.home-element {
+    display: flex;
+    flex-direction: column;
+}
+
+.portrait {
+    background-image: url("../assets/images/anders.png");
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    background-position: center;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
