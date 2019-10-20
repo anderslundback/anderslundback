@@ -1,0 +1,30 @@
+.projects-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+.projects-element {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.project-box {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    border: solid white;
+    /* max-width: 10vw;
+    max-height: 10vh;
+    min-width: 5vw;
+    min-height: 5vw; */
+    margin: 20px;
+
+}
