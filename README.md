@@ -1,9 +1,7 @@
 Hello 👋🏻
 
+I'm a software engineer and product manager based in Sweden 🇸🇪 
 
-I'm a software engineer based in Sweden 🇸🇪 
-
-
-My current role is Lead Front End developer at the med tech scaleup, [Caidr](https://caidr.com).
+My current role is CPO  at the med tech scaleup, [healthwords.ai](https://www.healthwords.ai).
 
 Interested in chess coaching? See my website [Better Chess](https://better-chess.com).
